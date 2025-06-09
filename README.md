@@ -1,4 +1,5 @@
 - 👋 Olá, sou @LucineiaLu
+- Estudante da Graduação Ciência da Compoutação na Cruzeiro do Sul
 - 👀 Estou interessado em aprender sempre a cada dia.
 - 🌱 Atualmente estou aprendendo mais a cada dia e na área de programação e tecnologia.
 - 💞️ Procuro colaborar em portifolios, projetos e dentre muitos.
