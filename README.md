@@ -1,6 +1,6 @@
 - 👋 Olá, sou @LucineiaLu
-- Estudante da Graduação Ciência da Compoutação na Cruzeiro do Sul
-- 👀 Estou interessado em aprender sempre a cada dia.
+- Estudante da Graduação Análise e Desenvolvimento de Sistemas na Faculdade Senac Minas
+- 👀 Estou interessada em aprender sempre a cada dia.
 - 🌱 Atualmente estou aprendendo mais a cada dia e na área de programação e tecnologia.
 - 💞️ Procuro colaborar em portifolios, projetos e dentre muitos.
 - 📫 Como entrar em contato comigo atraves daqui.
